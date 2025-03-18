@@ -1,4 +1,5 @@
 🙋‍♂️ ¡Hola Mundo, que gusto tenerlos de visita en este repositorio!
+
 Aquí encontraras mi formación como Científico de Datos, recorreremos los proyectos que forjaron mis habilidades dentro del mundo de datos.
 Explicaré brevemente cada proyecto y paso por paso descubrirás los conocimientos que he adquirido gracias a la escuela en línea TripleTen.
 Así que sin más preámbulos empecemos.
