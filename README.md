@@ -74,3 +74,14 @@ También nos encontramos con la posibilidad de guardar nuestro progreso y enseñ
 En este rpint aprendimos de los distintos programas utilizados por los científicos de datos para la programación de datos.
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Proyecto 8 - Pruebas de Hipótesis (ttest)**
+
+Al recorrer nuestro camino muchas veces nos damos cuenta que nuestras deiciones nos están llevando por el lado correcto, pero la ruta podrías ser más eficiente.
+Podríamos evitar un camino rocoso o baches en el camino, pero necesitamos una segunda opinión sobre la ruta.
+Para eso podemos utilizar las pruebas de hipótesis que nos den a entender cómo se están comportando nuestros datos y si las decisiones que tomamos son certeras o requieren de un ajuste.
+Las pruebas de hipótesis nos funcionan para predecir que la probabilidad de que un suceso pase y accionar en base a eso, utilizamos estadística y probabilidad para la toma de decisiones y validar nuestras predicciones.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+
