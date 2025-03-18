@@ -85,4 +85,23 @@ Las pruebas de hipótesis nos funcionan para predecir que la probabilidad de que
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
+**Proyecto 9 - Sklearn entrenando primeros modelos**
+
+Ya me dí cuenta que aunque sé tomar decisiones, muchas veces quiero ahorrarme el tiempo de analizar la data y quiero a un compañero que cuando le pase información me pueda indicar que pasos seguir.
+En el mundo de los datos muchas veces vamos a necesitar automatizar procesos y apoyarnos de herramientas que nos ayuden a predecir y clasificar tareas.
+Para eso podemos crear modelos de machine learning, entrnándolos en base a información existente, supervisando sus resultados, valuando su precisión y ponerlos a prueba.
+Para eso utilizamos modelos de clasificación y regresión que nos ayuden a crear esas predicciones sin tener que entrenarlos desde cero, una vez entrenados los modelos podemos alimentarles nueva información y ellos nos van a indicar los resultaods.
+Tomando decisiones catadas a nuestras necesidades y basadas en características establecidas. (sklearn)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Proyecto 10 - Métricas ROC, F1, Recall y ajustes de Datasets**
+
+Al tener a un asistente que trabaja para ti, tenemos que validar que tan eficiente es su trabajo utilizando distitnos métodos de valuarlo.
+Queremos saber con cuanta frecuancia comete errores, que tan preciso es, si es necesario ajustar su manera de sintetizar la información y que tan exactos son los resultados.
+Cuando tratamos con modelos de machine learning es important valuarlos en base al error, precisión, exactitud y en algunos casos ajustar la data para que el entrenamiento del modelo no se sesgue.
+Para eso utilizamos métricas que nos pueda decir la relación de resultados de predicción falsos positivos de los verdaderos positivos.
+Iterando y ajustando los resultados del modelo, de tal manera que se ajuste a los resultados deseados.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
