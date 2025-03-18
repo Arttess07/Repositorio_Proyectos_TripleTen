@@ -37,3 +37,24 @@ Para eso es necesario que podamos transformar los tipos de datos y trabajar con 
 Unir las bases da datos a través del concatenamiento relacionando la información y poder detectar patrones dentro de ella.
 Finalmente, utilizar operaciones matemáticas para enriquecer la data y darles un nuevo sentido es vital para el análisis de datos.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic)
+
+**Proyecto 5 - Render.com**
+Cuando estamos por buen camino y queremos presumir al mundo nuestras nuevas habilidades y buenas decisiones, es necesario aprender cómo podemos compartir nuestras experiencias.
+Además de que queremos hacerlo de manera fácil y dinámica.
+Para eso tenemos herramientas como Render que nos permiten compartir lo que hemos aprendido y que se pueda explorar nuestros hallazgos de manera dinámica.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Proyecto 6 - Matplotlib, Scipy & Seaborn**
+Ya vamos por buen camino, cada vez más confiados de nuestras habilidades y herramientas. Tenemos tiempo para sentarnos y reflexionar. ¿Cómo puedo hacer brillar el potencial de mis herramientas y cómo podemos usarlas lo más eficiente posible?
+Aunque sepamos cómo utilizar una herramienta de manera básica, no significa que tenga usos básicos.
+Creamos diferentes tipos de visualizaciones para detectar distintos patrones y tendencias. (Seaborn)
+Podemos utilizar una herramientas para crear apoyar ñas visualizaciones, ajustando límites, creando etiquetas personalizadas y cambiando los temas de color. (Matplotlib)
+Usamos nuestras herramientas para validar hipótesis sobre los resultados obtenidos- (Scipy)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Proyecto 7 - Visual Studio Code, Jupyter Notebook & Anaconda**
+En nuestro camino nos damos cuenta que otros aventureros tiene distintas formas de transporte, aunque tu camino ha sido exitoso y constante. Existen maneras de llegar a la meta de manera más eficiente.
+Aqui es donde aprendemos de diferentes programas que utilizan herramientas de programación de datos. Exploramos cuales son las que más nos acomodan y las que existen en el mercado.
+Cómo descargarlas y prepararlas, cómo montar un ambiente virtual, cómo utilizar su interface y cuál se adapta mejor a tu camino.
+También nos encontramos con la posibilidad de guardar nuestro progreso y enseñarlo al mundo, creando un anecdotario de proyectos y objetivos vencidos para poderlos compartir con el mundo. (GitHub)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | 	![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) | ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
