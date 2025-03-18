@@ -105,3 +105,66 @@ Iterando y ajustando los resultados del modelo, de tal manera que se ajuste a lo
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+**Proyecto 11 - ECM e Intervalos de Confianza**
+
+Nuestro asistente cada vez hace un mejor trabajo y queremos saber qué tan lejanos son sus aciertos de la realidad.
+También queremos conocer que estamos dispuestos a dejar ir. Así que debemos establecer un parámetro de error e intervalos de confianza que nos dejen tranquilos con su trabajo sisn interferir.
+En el mundo de machine learning existen métricas de error que nos sirvan para concoer la distancia entre el resultado deseado y el resultado predicho.
+Comunmente utilizamos el error cuadrático media para concocer la distancia, este nos indica la distancia cuadrada entre el resultado esperado y la predicción.
+Al utilizar la raíz cuadrada podemos ver en unidades que tan lejos está nuestro error de los resultados esperados. Esto nos da un parámetro de precisión al iterar un modelo.
+Los intervalos de confiaza establecen los valores que aceptamos como buenos al medir una distribución de datos, estos establecen un parámetro de que tan bien trabaja nuestro modelo.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Proyecto 12 - Vecindarios Cercanos, Definir Clases y Ofuscar datos**
+
+Hay veces que vamos a necesitar que nuestro asistente saque conclusiones de información que ya tenemos disponibles y ponerlo a prueba con datos nuevos de validación.
+Para esto podemos usar modelos de vecindarios cercanos donde comparamos comportamientos de usuarios para predecir sus acciones y clasificarlos según sea más conveniente.
+Tomamos las características de nuestros usuarios y las vamos analizando, de atl manera que nos muestre cómo clasificaríamos a un usuario dependiendo de cómo interactué con nuestros servicios.
+Para ello vemos las características y definimos a los usuarios dentro de una clase que les compete. Creando una base de entrenamiento que servirá de base para una predicción.
+También es importante proteger la información, de tal manera que no puede ser utilizada de manera maquiavélica o robada.
+A esto le llamamos ofuscar datos, es cuando enmascaramos la información para proteger la privacidad de nuestros usuarios.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Proyecto 13  - Regresión para valuar autos usados(CatBoost y LightGBM)**
+
+Al igual que existen diferentes programas para la programación de datos, también contamos con diferentes tipos de modelos que podemos utilizar.
+Hay modelos que exigen la estandarización de información, su codificación y escalamiento.
+Hay otros modelos más desarrollados que no necesitan la información procesada de esta manera para ser utilizada.
+CatBoost y LightGBM son dos tipos de modelos que contienen un descenso de gradiante para la iteración del modelo al realizar una clasificación o regresión.
+Esto ayuda a iterar el modelo con épocas, reduciendo el margen de error e incrementando la precisión de un modelo.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Proyecto 14 - Pronósticos para Servicios Taxi (Descenso de Gradiante)**
+
+Ahora que ya tenemos varias herramientas técnicas y experiencia, es tiempo de ponerla en práctica.
+Resolver casos de la vida, real, jugar con datos de tiempo, utilizar características de comportamiento e iterar sobre los resultados.
+Con nuestro gran apoyo del Descenso de Gradiante vamos a iterar sobre nuestros modelos para hacerlos los más eficientes posibles.
+vamos a iterar sobre hiperparámtetros para llegar al mejor resultado y construir un modelo que se apegue a nuestras metas.
+Ahora somos expertos en la carga de datos, limpieza, manipulación, filtrados, formulación de operaciones, visualización, análisis exploratorio, creación de modelos predictivos, validación, prueba, medir resultados y errores.
+Es tiempo de ponerlo en práctica y hacer brillas nuestras habilidades.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Proyecto 15 - Programación de Lenguaje Natural**
+
+Hemos alcanzado nuestra meta de análisis de datos y queremos saber que otros retos nos esperan.
+¿Qué más podemos hacer? ¿Cómo podemos moldear nuestra experiencia para llegar a nuevos horizontes?
+Nuestra experiencia en creación de modelos predictivos nos puede servir para mucho más que información numérica.
+También podemos utilizarla para procesar textos y saber el sentimiento de la persona que lo escribía.
+Convirtiendo los textos en números podemos hacer esto y mucho más, gracias a herramientas cómo nltk, spcay y nuestros modelos de predicción.
+Estas son herramientas poderosas para transformar textos en tendencias, sentimientos y nuevos sistemas de reseñas.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Proyecto Final - Modelo para Interconnect**
+
+Ha llegado el tiempo de demostrar nuestras habilidades y que podemos resolver problemas sin tener un GPS.
+Sabemos como buscar nuestra propia ruta, simples problemáticas se los vuelven pilares de nuestra guía y nuestro conocimiento es el motor.
+Aplicamos todos nuestros conocimiento para resolver una problemática y creamos las soluciones basadas en nuestra propia experiencia.
+Es así cuando demostramos de lo que somos capaces y de las estrategias que podemos idear sin ayuda de un mapa que nos va trazando la ruta.
+Aqui no es el final de nuestro camino, sino la prueba de que tenemos todo para embarcar en una nueva aventura.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | 	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) | ![Seaborn](https://img.shields.io/badge/SEABORN-%26style%3Dplastic) | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
